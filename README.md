@@ -91,6 +91,5 @@ Bu proje MIT lisansı ile lisanslanmıştır. Ayrıntılar için `LICENSE` dosya
 ## 🙏 Teşekkür
 
 Bu proje **Akbank Derin Öğrenme Bootcamp** kapsamında geliştirilmiştir.
-Emeği geçen tüm eğitmenlere ve katılımcılara teşekkürler!
 
 ```
